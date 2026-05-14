@@ -12,6 +12,8 @@ public class test {
    } 
    public static void main(String[] args) {
        test t = new test();
-       t.add(1, 2);
+       //t.add(1, 2);
+       t.sub(10, 5);
+
    }
 }
