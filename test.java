@@ -15,6 +15,7 @@ public class test {
         t.add(1, 2);
          t.sub(10, 5);
        t.mul(10,5);
+       System.out.println("thank you");
 
    }
 }
